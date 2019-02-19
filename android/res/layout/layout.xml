@@ -21,5 +21,8 @@ and we are showing the libgdx in portion of screen (the above FrameLayout elemen
         android:textColor="#00FF00"
         android:textSize="40dp"
         android:text="I'm just a TextView here with red background :("/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
